@@ -9,6 +9,11 @@
 
 This project provides a complete, cloud-deployed ComfyUI-based pipeline combining **Qwen-Image-Edit-2509** advanced AI model with **UltimateSDUpscale** for high-resolution image editing and upscaling. Built for Kaggle's GPU environment, it offers professional-grade image transformation capabilities through an intuitive web interface.
 
+<figure>
+ <img width="1920" height="960" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/23de9972-242b-4365-a194-8027aca3d8ae" /><br>
+ <img width="1920" height="960" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/d218df91-3752-4498-ba42-10851467ec1e" /><br>
+</figure>
+
 ---
 
 ##  Key Features
